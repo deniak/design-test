@@ -7,7 +7,9 @@ layout: basic
 
 Hello World!
 
+
 ### subsection
 
-{% assign cards = site.data.collapsible_data['posts'] %}
-{% include collapsible.html cards=cards %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+[W3C](https://www.w3.org/)
