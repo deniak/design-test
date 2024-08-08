@@ -1,3 +1,4 @@
 remote_theme: deniak/w3c-jekyll-theme
 plugins:
 - jekyll-remote-theme
+- jekyll-redirect-from
