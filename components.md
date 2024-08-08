@@ -1,6 +1,9 @@
 ---
 title: Components
 layout: basic
+redirect_from:
+  - /legacy-components.html
+  - /legacy-components
 ---
 
 # Collapsible containers
