@@ -2,7 +2,6 @@ remote_theme: w3c/w3c-jekyll-theme
 plugins:
 - jekyll-remote-theme
 - jekyll-redirect-from
-markdown: CommonMarkGhPages
 titles_from_headings:
   enabled:     true
   strip_title: true
