@@ -19,4 +19,19 @@ kramdown
 : A Markdown-superset converter
 
 Maruku
-:     Another Markdown-superset converter
+: Another Markdown-superset converter
+
+# custom class
+This is a paragraph
+{:.customClass}
+
+![W3C](https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg){:.className}
+
+
+
+# custom id
+
+This is another paragraph with an id
+{:.customIdParagraph}
+
+![W3C](https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg){:#customIdImage}
