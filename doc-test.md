@@ -39,3 +39,4 @@ This is another paragraph with an id
 ![W3C](https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg){:#customIdImage}
 
 ### My Great Heading {#custom-id}
+{:.custom-class}
