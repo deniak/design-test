@@ -28,6 +28,7 @@ This is a paragraph
 ![W3C](https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg){:.className}
 
 
+### My Great Heading {.custom-class}
 
 # custom id
 
@@ -35,3 +36,5 @@ This is another paragraph with an id
 {:#customIdParagraph}
 
 ![W3C](https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg){:#customIdImage}
+
+### My Great Heading {#custom-id}
